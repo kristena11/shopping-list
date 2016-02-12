@@ -1,0 +1,25 @@
+body {
+	font-family: kristen itc;
+	background-image="css/fzm-notebook.texture-25.jpg";
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.title {
+	text-align: center;
+	margin-top:  80px;
+	font-size: 40px;
+
+}
+
+.item {
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+    }
+
+  .dashed{
+  	font-size: 25px;
+  }
+
